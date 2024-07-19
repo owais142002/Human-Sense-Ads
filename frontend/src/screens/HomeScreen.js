@@ -10,7 +10,7 @@ const HomeScreen = () => {
   
   return (
     <div className="h-screen flex justify-center items-center bg-black">   
-      <video id="video"  className="w-full h-full object-cover" autoPlay loop muted>
+      <video id="video"  className="w-full h-full object-cover" autoPlay loop>
         <source src="Acno Fight DVC.mp4" type="video/mp4"/>
         Your browser does not support the video tag.
       </video>
