@@ -2,7 +2,7 @@
 
 ## Overview
 
-AdGaze is a project designed to detect humans, extract their features, and generate personalized messages using a language model (LLM) to grab their attention towards advertisements displayed on a screen. The project is divided into three main parts:
+Human Sense Ads is a project designed to detect humans, extract their features, and generate personalized messages using a language model (LLM) to grab their attention towards advertisements displayed on a screen. The project is divided into three main parts:
 
 1. **Cronjob**: Detects humans and creates messages based on their features.
 2. **Backend**: Receives messages and signals the frontend upon state change.
