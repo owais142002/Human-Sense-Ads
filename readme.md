@@ -8,6 +8,10 @@ Human Sense Ads is a project designed to detect humans, extract their features, 
 2. **Backend**: Receives messages and signals the frontend upon state change.
 3. **Frontend**: Displays the generated messages to the users.
 
+## Project Demo Video
+https://github.com/user-attachments/assets/d3f08d45-3e94-42f3-a3e7-4601874ea0de
+
+
 ## Project Structure
 
 - **cronjob/**: Contains the main script (`main.py`) for detecting humans and creating messages.
